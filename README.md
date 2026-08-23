@@ -8,4 +8,7 @@ This repository is created based on the ACM Recruitment challenge.
 - C
 
 Project idea branch
+HEAD
 Feature A update
+Feature B update
+59bcea1 (Update README.md)
